@@ -1,0 +1,21 @@
+id,text,sentiment
+1,"I love the new features of this smartwatch! It's amazing.",positive
+2,"The battery life is terrible. It barely lasts a day.",negative
+3,"I'm not sure about the design, but the fitness tracking is useful.",neutral
+4,"Great value for money! The performance is top-notch.",positive
+5,"This product didn't live up to my expectations at all.",negative
+6,"It's okay, but could be better in terms of usability.",neutral
+7,"The water resistance feature works great! Very happy with it.",positive
+8,"Customer service was awful. I wouldn't recommend this product.",negative
+9,"It does the job, but the display could be brighter.",neutral
+10,"Absolutely fantastic! I would buy it again.",positive
+11,"The screen broke after just a week. Very disappointing.",negative
+12,"Not as good as I expected, but it's functional for basic needs.",neutral
+13,"The performance has exceeded all my expectations. Highly recommend it.",positive
+14,"Too expensive for what it offers. I’m returning it.",negative
+15,"It works fine, but the setup process was a bit complicated.",neutral
+16,"This product is exactly what I needed. Totally satisfied!",positive
+17,"The watch is slow and often freezes. Not worth the price.",negative
+18,"It’s a decent product, nothing special but functional.",neutral
+19,"Excellent customer support, and the product works flawlessly.",positive
+20,"The design is beautiful, but it feels fragile. I'm worried about durability.",negative
