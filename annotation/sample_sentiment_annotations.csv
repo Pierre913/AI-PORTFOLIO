@@ -1,0 +1,11 @@
+id,text,sentiment
+1,"I love the new features of this smartwatch! It's amazing.",positive
+2,"The battery life is terrible. It barely lasts a day.",negative
+3,"I'm not sure about the design, but the fitness tracking is useful.",neutral
+4,"Great value for money! The performance is top-notch.",positive
+5,"This product didn't live up to my expectations at all.",negative
+6,"It's okay, but could be better in terms of usability.",neutral
+7,"The water resistance feature works great! Very happy with it.",positive
+8,"Customer service was awful. I wouldn't recommend this product.",negative
+9,"It does the job, but the display could be brighter.",neutral
+10,"Absolutely fantastic! I would buy it again.",positive
